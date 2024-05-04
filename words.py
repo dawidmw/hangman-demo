@@ -1,0 +1,16 @@
+word_list = [
+    "dog",
+    "insect",
+    "uncle",
+    "nickel",
+    "cookie",
+    "cosmos",
+    "astronaut",
+    "incredulous",
+    "karate",
+    "kitten",
+    "milk",
+    "banana",
+    "beer",
+    "whale",
+    "craziness"]
